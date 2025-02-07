@@ -1,3 +1,4 @@
+
 #include "nqueens.h"
 #include <stdio.h>
 #include "solver.h"
