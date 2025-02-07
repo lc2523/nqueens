@@ -1,4 +1,7 @@
+
 #include "nqueens.h"
+#include <stdio.h>
+#include "solver.h"
 
 int main() {
     int n;
@@ -14,3 +17,4 @@ int main() {
 
     return 0;
 }
+
